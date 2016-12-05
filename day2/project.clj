@@ -1,5 +1,5 @@
 (defproject day2 "0.1.0-SNAPSHOT"
-  :description "AoC 2016 Day 1"
+  :description "AoC 2016 Day 2"
   :url ""
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
